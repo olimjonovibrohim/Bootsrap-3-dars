@@ -1,0 +1,22 @@
+body{
+    background-color: darkgray;
+}
+img{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    border: 1px solid black;
+    float: left;
+}
+td{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.container{
+    margin-top: 100px;
+   
+}
+.ok-item{
+    border-bottom: 2px solid gray ;
+    background-color: white;
+}

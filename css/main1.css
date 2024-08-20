@@ -1,0 +1,45 @@
+body{
+    background-color: gainsboro;
+}
+.container{
+    background-color: white;
+    margin-top: 100px;
+    height: 500px;
+}
+.row{
+    margin-top: 20px;
+}
+.imov{
+    color: white;
+    background-color: rgb(0, 0, 120);
+    margin-top: 15px;
+}
+.imov2{
+    color: white;
+    background-color: rgb(0, 0, 120);
+    margin-top: 20px;
+}
+.my-5{
+    background-color:  rgb(0, 0, 120);
+    height: 80px;
+}
+.man-2{
+    margin-left: 200px;
+}
+.man{
+    margin-left: 20px;
+}
+.kl{
+    color: blue;
+}
+.my-11{
+    border-top: 2px solid rgba(128, 128, 128, 0.5);
+    height: 40px;
+    background-color: white;
+    padding-left: 25px;
+    padding-right: 20px;
+}
+.my-10{
+    padding-left: 25px;
+    padding-right: 10px;
+}

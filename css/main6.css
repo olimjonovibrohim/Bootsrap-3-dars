@@ -1,0 +1,55 @@
+
+.tok{
+    width: 100%;
+    background-color: blueviolet;
+    color: white;
+}
+.bingo{
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+    height: 200px;
+}
+.bingo-2{
+    border: 2px solid violet;
+    border-radius: 10px;
+    height: 200px;
+}
+.bon{
+    background-color: violet;
+    color: white;
+}
+.nom{
+    border: 2px solid rgb(0, 161, 164);
+}
+.nom1{
+    border: 2px solid #dc3545;
+}
+.hom{
+    margin-top: -265px;
+}
+.hom2{
+    margin-top: -265px;
+    margin-left: 50px;
+}
+input{
+    width: 300px;
+    height: 45px;
+}
+.kil{
+    border: 2px solid #28a745;
+}
+.hok2{
+    margin-left: 50px;
+}
+.kil5{
+    margin-left: 44px;
+}
+.ki5{
+    border: 2px solid #28a745;
+}
+.ko{
+    color: white;
+}
+.jorj{
+    color: white;
+}

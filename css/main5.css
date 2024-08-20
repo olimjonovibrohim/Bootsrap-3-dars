@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+}
+.container{
+    background-color: white;
+    margin-top: 100px;
+}
+.row{
+    margin-top: 20px;
+    background-color: whitesmoke;
+}
